@@ -1,0 +1,3 @@
+/Volumes/program/project/废话生成器的副本/cmake-build-debug/CMakeFiles/untitled.dir
+/Volumes/program/project/废话生成器的副本/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/program/project/废话生成器的副本/cmake-build-debug/CMakeFiles/rebuild_cache.dir

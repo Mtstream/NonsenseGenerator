@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Volumes/program/project/废话生成器的副本 -B /Volumes/program/project/废话生成器的副本/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/program/project/废话生成器的副本/cmake-build-debug
